@@ -2,7 +2,7 @@
 
 My name is Jaeyoun Sim, also known as Simy. Simy is the abbreviation of my name.
 
-I'm interested in Backend development, Data structures, and quantitative investment.
+I'm interested in Backend development, Data structures, and quantitative investment. Additionally, I have strong language skills, as evidenced by my OPIC certification with an IH level, which enhances my ability to collaborate effectively with international teams.
 
 My goal is to create a programs or code that generate high revenue.
 However, I haven’t been interested in quant for long, so I’m not very knowledgeable about it yet.
@@ -39,7 +39,7 @@ ___
 **ML** : 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### project
+### Project
 ---
 |Project name|Kind of Project|Summary Description|Role|
 |--|--|--|--|
