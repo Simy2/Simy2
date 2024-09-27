@@ -5,7 +5,6 @@ My name is Jaeyoun Sim, also known as Simy. Simy is the abbreviation of my name.
 I'm interested in Backend development, Data structures, and quantitative investment.
 
 My goal is to create a programs or code that generate high revenue.
-However, I haven’t been interested in quant for long, so I’m not very knowledgeable about it yet.
 
 ### My tech stack
 ___
