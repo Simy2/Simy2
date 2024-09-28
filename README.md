@@ -44,7 +44,7 @@ ___
 |--|--|--|--|
 |책국(Bookpharmacy)|Web|Recommends books based on client preferences and features a book recommendation SNS|Backend, Data structure, Deployment|
 |끼리(KKri)|APP|Platform of the secondhand trasaction using virtual currency called bean|Backend, Data structure, Deployment|
-|GaeyuNN_ETF|Data Precessing and Predicting|Predict etf or portfolio consisted with korean stocks price|Data Collection, Data Processing, Modeling, PM|
+|GaeyuNN_ETF|Data Precessing and Predicting|Predict etf or portfolio consisted with korean stocks volatility|Data Collection, Data Processing, Modeling, PM|
 |돈워리(Don-t-worry)|APP|Recommend hedge option based on client's portfolio and arbitrage using option|Backend, Quant, Deployment, PM|
 
 
